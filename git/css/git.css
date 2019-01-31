@@ -1,0 +1,54 @@
+body{
+	background-image: url("../img/gitBackground.jpg");
+}
+
+h1{
+	margin: 50px;
+	font-size: 65px;
+	font-family: 'Dancing Script', cursive;
+	color: white;
+}
+h2{
+	color: white;
+	margin-left: 60px;
+	margin-top: 80px;
+	font-size: 33px;
+	font-family: 'Special Elite', cursive;
+}
+p{
+	color: white;
+	font-size: 22px;
+	font-family: 'Special Elite', cursive;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li{
+	display: inline;
+	font-size: 32px;
+}
+a{
+	padding: 10px;
+	color: white;
+}
+a:hover{
+	color: red;
+}
+nav{
+	background-color: maroon;
+	font-family: 'Amatic SC', cursive;
+
+}
+header{
+	text-align: center;
+}
+section{
+	margin: 20px;
+}
+footer{
+	color: white;
+	margin-top: 100px;
+	text-align: center;
+}
